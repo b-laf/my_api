@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mission_type: MyString
+  date: 2023-03-23
+  price_unit: 1
+  listing: one
+
+two:
+  mission_type: MyString
+  date: 2023-03-23
+  price_unit: 1
+  listing: two
